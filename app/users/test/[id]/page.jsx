@@ -24,6 +24,7 @@ export default function ProductPage() {
   return (
     <div>
       <h1>your Product ID is: {id}</h1>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga itaque debitis fugit eum ab harum quos eius tenetur, ullam minima aut, dolore quidem nobis consectetur odio quisquam porro dolorem cum.</p>
       <h1>{product.title}</h1>
       <p>{product.body}</p>
     </div>
